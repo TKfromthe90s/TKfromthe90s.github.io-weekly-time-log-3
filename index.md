@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Weekly Time Log 3
 
-You can use the [editor on GitHub](https://github.com/TKfromthe90s/TKfromthe90s.github.io-weekly-time-log-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Date 9-28-2020
+- Hours Spent: 0 
+- Work Description: Zero Day due to other coursework, as has been normal thus far
 
-### Markdown
+# Date 9-29-2020
+- Hours Spent: 4 
+- Work Description: Spent additional time consulting with prospective playtesters about potential additional features to add to the game as development continues
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Date 9-30-2020
+- Hours Spent: 0
+- Work Description: Zero Day due to heavier load of coursework than usual
 
-```markdown
-Syntax highlighted code block
+# Date 10-1-2020
+- Hours Spent: 4
+- Work Description: Began working through playlist of additional Unreal Engine 4 tutorials assembled during previous week
 
-# Header 1
-## Header 2
-### Header 3
+# Date 10-2-2020
+- Hours Spent: 4
+- Work Description: Spent time making another attempt at solving technical issue which was preventing installation of Unreal Engine onto primary computer
+- Successfully solved technical issue and immediately made tertiary attempt at installing Unreal Engine onto more powerful primary computer
+- Attempt was fortunately successful 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Date 10-3-2020
+- Hours Spent: 6
+- Work Description: Spent time recreating prototypes assembled last week on primary computer
+- Reloaded premade side-scroller template provided by default within Unreal Engine
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+# Date 10-4-2020
+- Hours Spent: 0
+- Work Description: Zero Day to make progress on other coursework, so as to clear time to prepare for impending exam in another course at the end of this upcoming week
+
+# Total Hours Spent
+- 56
+
+[Return to Time Logs](https://tkfromthe90s.github.io/TKfromthe90s.github.io-weekly-time-logs/)
+[Return to Homepage](https://tkfromthe90s.github.io/)
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TKfromthe90s/TKfromthe90s.github.io-weekly-time-log-3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
